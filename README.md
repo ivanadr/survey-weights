@@ -1,6 +1,7 @@
 # Dataset Generation Script with Groupby Operations and Stata Example
 
-This script generates a synthetic dataset of cigarette consumption based on gender and city with corresponding weights for each data point. 
+This script generates a synthetic dataset of cigarette consumption based on gender and city with corresponding weights for each data point.
+This repo aims to host a sample dataset used in a hands-on example in my Slides and Text about the Survey Weighting Methodology. 
 
 ## Code (Python)
 
